@@ -1,0 +1,21 @@
+{
+  "name": "docker-aws-ecs-nodejs-app",
+  "version": "1.0.0",
+  "description": "Code for my tutorial on how to dockerize a node app and deploy it on ECS.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
