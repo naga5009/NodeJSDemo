@@ -1,1 +1,6 @@
-
+[
+  {
+    "name": "nodejsdemo",
+    "imageUri": "311323711866.dkr.ecr.ap-south-1.amazonaws.com/ecr3-private-nodejsdemo"
+  }
+]
